@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T06:15:51.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" version="14.4.2" etag="4wwYhvstryTDYn8cKok8" type="github"><diagram id="f0RSN88m8Pic7EO8OySR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-18T06:45:14.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="9G6P-uKYKsmCyjLApF_z" version="14.4.2" type="github">
+  <diagram id="f0RSN88m8Pic7EO8OySR" name="Page-1">
+    <mxGraphModel dx="2253" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DkqRiTfdkSOThAQxRClu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-1" target="DkqRiTfdkSOThAQxRClu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-1" value="點選聯盟網連結&lt;br&gt;atm_src = affiliate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-2" target="DkqRiTfdkSOThAQxRClu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-2" value="點選講師連結&lt;br&gt;atm_src = teacherA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-3" target="DkqRiTfdkSOThAQxRClu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-3" value="存入 cookie = affiliate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-4" target="DkqRiTfdkSOThAQxRClu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-4" value="存入 cookie = teacherA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-5" value="聯盟網 55 分潤&lt;br&gt;courseA&lt;br&gt;courseB&lt;br&gt;courseC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-6" value="土撥鼠&lt;br&gt;courseC&lt;br&gt;courseD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-9" target="DkqRiTfdkSOThAQxRClu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-9" target="DkqRiTfdkSOThAQxRClu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-9" value="完成付款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-11" target="DkqRiTfdkSOThAQxRClu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-11" target="DkqRiTfdkSOThAQxRClu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-11" value="完成付款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-17" value="聯盟網 55 分潤&lt;br&gt;courseA&lt;br&gt;courseB&lt;br&gt;courseC&lt;br&gt;-------------------------&lt;br&gt;土撥鼠&lt;br&gt;courseC&lt;br&gt;courseD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-23" value="聯盟網 55 分潤&lt;br&gt;courseA&lt;br&gt;courseB&lt;br&gt;courseC&lt;br&gt;-------------------------&lt;br&gt;土撥鼠&lt;br&gt;courseC&lt;br&gt;courseD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="610" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-25" value="聯盟網 55 分潤&lt;br&gt;courseA&lt;br&gt;courseB&lt;br&gt;courseC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-683" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-26" value="土撥鼠&lt;br&gt;courseC&lt;br&gt;courseD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-37" target="DkqRiTfdkSOThAQxRClu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-37" value="點選聯盟網連結&lt;br&gt;atm_src = affiliate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-39" target="DkqRiTfdkSOThAQxRClu-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-39" value="存入 cookie = affiliate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-40" value="聯盟網 55 分潤&lt;br&gt;courseA&lt;br&gt;courseB&lt;br&gt;courseC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DkqRiTfdkSOThAQxRClu-43" target="DkqRiTfdkSOThAQxRClu-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-43" value="完成付款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-45" value="聯盟網 55 分潤&lt;br&gt;courseA&lt;br&gt;courseB&lt;br&gt;courseC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
