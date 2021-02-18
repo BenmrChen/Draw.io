@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T06:45:14.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="9G6P-uKYKsmCyjLApF_z" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T07:37:58.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="8jrWntc4TFzBZOEKBBQW" version="14.4.2" type="github">
   <diagram id="f0RSN88m8Pic7EO8OySR" name="Page-1">
     <mxGraphModel dx="2253" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="DkqRiTfdkSOThAQxRClu-45" value="聯盟網 55 分潤&lt;br&gt;courseA&lt;br&gt;courseB&lt;br&gt;courseC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkqRiTfdkSOThAQxRClu-46" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="790" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
