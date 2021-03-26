@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T03:33:49.391Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Inrs3Zv2KdleQ_7vXhHe" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T03:36:46.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="8NFisHrpJVzFtunaoEWZ" version="14.5.1" type="github">
   <diagram id="ft2ekDf52CcPwkjGjaUg" name="Page-1">
     <mxGraphModel dx="1426" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -522,7 +522,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKZV2CFVftr11WgmAgI6-188" value="是否已達到&lt;br&gt;使用次數上限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4060" y="450" width="140" height="80" as="geometry" />
+          <mxGeometry x="4060" y="450" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QKZV2CFVftr11WgmAgI6-190" value="error" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4060" y="350" width="120" height="60" as="geometry" />
