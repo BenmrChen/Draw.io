@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T03:38:54.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="PI-pGbAPhudyx3NfKIeD" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-27T14:38:22.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="VRMMXEqZY7yQzBpEQwYH" version="14.5.1" type="github">
   <diagram id="ft2ekDf52CcPwkjGjaUg" name="Page-1">
-    <mxGraphModel dx="-228" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="24" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,6 +556,12 @@
             <mxPoint x="2068" y="1169" as="sourcePoint" />
             <mxPoint x="4510" y="1181" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QKZV2CFVftr11WgmAgI6-206" value="實際上撈可使用的券時不用檢查這個" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2552" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QKZV2CFVftr11WgmAgI6-209" value="修改後: promo_code_event 是否有 all_site 且啟用中，再檢查使用使是否都有該課" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2362" y="430" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
