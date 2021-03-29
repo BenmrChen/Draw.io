@@ -1,35 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T06:10:13.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="7wtaxaBgePLyKnGSK97r" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T06:10:51.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="LW2doyw3kbYEs2NPDJJY" version="14.5.1" type="github">
   <diagram id="ft2ekDf52CcPwkjGjaUg" name="Page-1">
     <mxGraphModel dx="-228" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QKZV2CFVftr11WgmAgI6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QKZV2CFVftr11WgmAgI6-3" target="QKZV2CFVftr11WgmAgI6-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QKZV2CFVftr11WgmAgI6-3" value="多次用優惠券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2027" y="2120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QKZV2CFVftr11WgmAgI6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QKZV2CFVftr11WgmAgI6-53" target="QKZV2CFVftr11WgmAgI6-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QKZV2CFVftr11WgmAgI6-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QKZV2CFVftr11WgmAgI6-56" vertex="1" connectable="0">
-          <mxGeometry x="0.0165" y="2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QKZV2CFVftr11WgmAgI6-59" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QKZV2CFVftr11WgmAgI6-53" target="QKZV2CFVftr11WgmAgI6-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QKZV2CFVftr11WgmAgI6-53" value="是否在 promo_code_log" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2201" y="2110" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QKZV2CFVftr11WgmAgI6-55" value="已使用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2392" y="2080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QKZV2CFVftr11WgmAgI6-58" value="不顯示" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2392" y="2170" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QKZV2CFVftr11WgmAgI6-76" value="可使用" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="2140" y="160" width="120" height="60" as="geometry" />
         </mxCell>
