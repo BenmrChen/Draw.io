@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T02:07:00.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="U97JpOCNFphwD7CKbMER" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T08:00:14.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="RACOkPmNyWesL2wgMsqh" version="14.5.8" type="github">
   <diagram id="ft2ekDf52CcPwkjGjaUg" name="Page-1">
-    <mxGraphModel dx="-228" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-228" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,26 +344,29 @@
         <mxCell id="QKZV2CFVftr11WgmAgI6-209" value="修改後: promo_code_event 是否有 all_site 且啟用中，再檢查使用使是否都有該課" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2362" y="430" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DU2-kcFHoKcCr0_BofA8-1" value="我的優惠券判斷" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DU2-kcFHoKcCr0_BofA8-1" value="我的優惠券判斷" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2080" y="-350" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DU2-kcFHoKcCr0_BofA8-2" value="綁定優惠券判斷" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DU2-kcFHoKcCr0_BofA8-2" value="綁定優惠券判斷" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3600" y="-340" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DU2-kcFHoKcCr0_BofA8-3" value="Type 1&lt;br&gt;訂單滿額" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DU2-kcFHoKcCr0_BofA8-3" value="Type 1&lt;br&gt;訂單滿額" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5060" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DU2-kcFHoKcCr0_BofA8-5" value="Type 2&lt;br&gt;再行銷活動" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DU2-kcFHoKcCr0_BofA8-5" value="Type 2&lt;br&gt;再行銷活動" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5060" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DU2-kcFHoKcCr0_BofA8-6" value="Type 3&lt;br&gt;單一課程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DU2-kcFHoKcCr0_BofA8-6" value="Type 3&lt;br&gt;單一課程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5060" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DU2-kcFHoKcCr0_BofA8-7" value="Type 4&lt;br&gt;合購" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DU2-kcFHoKcCr0_BofA8-7" value="Type 4&lt;br&gt;合購" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5060" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DU2-kcFHoKcCr0_BofA8-8" value="Type 5&lt;br&gt;全部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DU2-kcFHoKcCr0_BofA8-8" value="Type 5&lt;br&gt;全部" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5060" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GekUJlV_leo_md-ggIJU-1" value="全站優惠券:&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span&gt;1. 合購&lt;/span&gt;&lt;/div&gt;2. 再行銷活動&amp;nbsp;&lt;br&gt;&lt;br&gt;可使用: 判斷是否已經有全部課程&lt;br&gt;- 合購、再行銷: 皆為買完全部的課就不出現&lt;br&gt;已使用: promo_code_list 的status 大於 0 就出現" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="-10" width="320" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
